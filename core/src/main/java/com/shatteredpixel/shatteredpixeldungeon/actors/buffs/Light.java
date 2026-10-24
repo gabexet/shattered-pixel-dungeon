@@ -33,7 +33,7 @@ public class Light extends FlavourBuff {
 	}
 
 	public static final float DURATION	= 250f;
-	public static final int DISTANCE	= 6;
+	public static final int DISTANCE	= 8;
 	
 	@Override
 	public boolean attachTo( Char target ) {
